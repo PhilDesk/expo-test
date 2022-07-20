@@ -23,7 +23,7 @@ Ceci est une expo test avec Juncture et le carré de sable IIIF
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
-       url="https://oncs.bib.umontreal.ca/BLRCS/Journee_du_poilu.tif">
+       manifest="https://oncs.bib.umontreal.ca/BLRCS/Journee_du_poilu.tif.json">
 
 # Basic usage
 
