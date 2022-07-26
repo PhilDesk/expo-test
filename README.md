@@ -45,7 +45,7 @@ L'œuvre de <span data-mouseover-image-zoomto="741,600,1268,1077">Molière</span
 
 ## Université de Montréal
 L'Université de Montréal (UdeM) est une université publique canadienne du Québec. Elle est l'un des sept établissements d'enseignement supérieur ayant leur siège social à Montréal4, ainsi que l'une des cinq grandes universités du Canada et la deuxième en nombre d'étudiants.
-<param ve-map center="45.50084/-73.61756" zoom="10">
+<param ve-map center="45.50084,-73.61756" zoom="10">
 <!--<param ve-map center="Q36600" zoom="11" prefer-geojson>-->
 
 <!--## Multiple viewers
