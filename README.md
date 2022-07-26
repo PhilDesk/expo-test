@@ -49,7 +49,9 @@ L'Université de Montréal (UdeM) est une université publique canadienne du Qu�
 
 ## Bibliothèque des livres rares et collections spéciales
 La <span data-mouseover-map-flyto="45.49874,-73.61624,17">Bibliothèque des livres rares et collections spéciales</span> de l’Université de Montréal possède une collection patrimoniale développée sur plus d’un siècle d’histoire et qui comprend plus de 100 000 documents dans presque tous les domaines du savoir, de l’Antiquité à nos jours.
-<param ve-map center="45.5013,-73.6169" zoom="16" marker-type="circle" radius="8">
+<param ve-map center="45.5013,-73.6169" zoom="16">
+<param ve-map-marker
+marker-type="circle" radius="8">
 
 <!--<param ve-map center="Q36600" zoom="11" prefer-geojson>-->
 
