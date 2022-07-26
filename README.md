@@ -1,4 +1,4 @@
-# expo-test
+# Première exposition
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 Ceci est une expo test avec Juncture et le carré de sable IIIF
@@ -19,8 +19,7 @@ Ceci est une expo test avec Juncture et le carré de sable IIIF
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Anna Atkins
-## Chordaria
+## Anna Atkins
 Publiées entre 1843 et 1853 sous forme de douze petits fascicules d'une cinquantaine de pages chacun, les Photographs of British Algae sont l'une des productions clés de l'histoire de la photographie, mariant pour la première fois photographie et édition à une époque où les livres illustrés l'étaient à la main par des dessinateurs et des graveurs. Les cyanotypes ― procédé de photographie monochrome mis au point en 1842 par John Herschel ― d'Anna Atkins forment un herbier conçu comme accompagnement du Manual of the British Marine Algae de William Harvey, qui proposait en 1841 une classification des algues à la précision et à l'ampleur inédites.[^1]
 
 <param ve-image fit="contain"
@@ -29,9 +28,7 @@ Publiées entre 1843 et 1853 sous forme de douze petits fascicules d'une cinquan
        license="public domain"
        url="https://oncs.bib.umontreal.ca/BLRCS/Chordaria_Atkins_p95.tif">
 
-# Molière
-## Portrait
-
+## Molière
 Jean-Baptiste Poquelin, dit Molière, est un comédien et dramaturge français, baptisé le 15 janvier 1622 à Paris, où il est mort après avoir joué sur scène la quatrième représentation de sa pièce [Le Malade imaginaire](https://fr.wikipedia.org/wiki/Le_Malade_imaginaire), le 17 février 1673. 
 <param ve-image fit="contain"
        label="Jean-Baptiste Poquelin, dit Molière" 
@@ -46,10 +43,8 @@ L'œuvre de <span data-mouseover-image-zoomto="741,600,1268,1077">Molière</span
        license="public domain" 
        url="https://oncs.bib.umontreal.ca/BLRCS/Portrait_de_moliere.tif">
 
-## Map
-
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
+## Université de Montréal
+L'Université de Montréal (UdeM) est une université publique canadienne du Québec. Elle est l'un des sept établissements d'enseignement supérieur ayant leur siège social à Montréal4, ainsi que l'une des cinq grandes universités du Canada et la deuxième en nombre d'étudiants.
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
 <!--## Multiple viewers
