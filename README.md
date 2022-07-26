@@ -34,7 +34,7 @@ Publiées entre 1843 et 1853 sous forme de douze petits fascicules d'une cinquan
        label="Chordaria d'Anna Atkins" 
        description="Chordaria, p. 95" 
        license="public domain" 
-       manifest="https://oncs.bib.umontreal.ca/cantaloupe/iiif/3/BLRCS%2FChordaria_Atkins_p95.tif/info.json">
+       manifest="https://oncs.bib.umontreal.ca/generateur/BLRCS/Chordaria_Atkins_p95.tif.json">
 
 ## Map
 
