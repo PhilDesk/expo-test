@@ -34,7 +34,7 @@ Publiées entre 1843 et 1853 sous forme de douze petits fascicules d'une cinquan
 # Molière
 ## Portrait
 
-Jean-Baptiste Poquelin, dit Molière, est un comédien et dramaturge français, baptisé le 15 janvier 1622 à Paris, où il est mort après avoir joué sur scène la quatrième représentation de sa pièce Le Malade imaginaire, le 17 février 1673. L'œuvre de Molière, une trentaine de comédies en vers ou en prose, accompagnées ou non d'entrées de ballet et de musique, constitue un des piliers de l'enseignement littéraire en France. Elle continue de remporter un vif succès en France et dans le monde entier, et reste l'une des références de la littérature universelle.
+Jean-Baptiste Poquelin, dit Molière, est un comédien et dramaturge français, baptisé le 15 janvier 1622 à Paris, où il est mort après avoir joué sur scène la quatrième représentation de sa pièce [#Le Malade imaginaire#](https://fr.wikipedia.org/wiki/Le_Malade_imaginaire), le 17 février 1673. L'œuvre de Molière, une trentaine de comédies en vers ou en prose, accompagnées ou non d'entrées de ballet et de musique, constitue un des piliers de l'enseignement littéraire en France. Elle continue de remporter un vif succès en France et dans le monde entier, et reste l'une des références de la littérature universelle.
 <param ve-image fit="contain"
        label="Jean-Baptiste Poquelin, dit Molière" 
        description="Portrait de Molière" 
