@@ -19,9 +19,10 @@ Ceci est une expo test avec Juncture et le carré de sable IIIF
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Sample visual essay
+# Anna Atkins
+## Chordaria
+Publiées entre 1843 et 1853 sous forme de douze petits fascicules d'une cinquantaine de pages chacun, les Photographs of British Algae sont l'une des productions clés de l'histoire de la photographie, mariant pour la première fois photographie et édition à une époque où les livres illustrés l'étaient à la main par des dessinateurs et des graveurs. Les cyanotypes ― procédé de photographie monochrome mis au point en 1842 par John Herschel ― d'Anna Atkins forment un herbier conçu comme accompagnement du Manual of the British Marine Algae de William Harvey, qui proposait en 1841 une classification des algues à la précision et à l'ampleur inédites.[^1]
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
        label="Chordaria d'Anna Atkins"
        description="Chordaria, p. 95" 
@@ -30,16 +31,18 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 <!--<param ve-image 
        manifest="https://oncs.bib.umontreal.ca/generateur/BLRCS/image_chinoise.jpg.json">-->
 
-# Basic usage
+# Molière
 
-## Image
+## Portrait
 
-Publiées entre 1843 et 1853 sous forme de douze petits fascicules d'une cinquantaine de pages chacun, les Photographs of British Algae sont l'une des productions clés de l'histoire de la photographie, mariant pour la première fois photographie et édition à une époque où les livres illustrés l'étaient à la main par des dessinateurs et des graveurs. Les cyanotypes ― procédé de photographie monochrome mis au point en 1842 par John Herschel ― d'Anna Atkins forment un herbier conçu comme accompagnement du Manual of the British Marine Algae de William Harvey, qui proposait en 1841 une classification des algues à la précision et à l'ampleur inédites.[^1]
+Jean-Baptiste Poquelin, dit Molière, est un comédien et dramaturge français, baptisé le 15 janvier 1622 à Paris, où il est mort après avoir joué sur scène la quatrième représentation de sa pièce Le Malade imaginaire, le 17 février 1673.
+
+L'œuvre de Molière, une trentaine de comédies en vers ou en prose, accompagnées ou non d'entrées de ballet et de musique, constitue un des piliers de l'enseignement littéraire en France. Elle continue de remporter un vif succès en France et dans le monde entier, et reste l'une des références de la littérature universelle.
 <param ve-image 
-       label="Chordaria d'Anna Atkins" 
-       description="Chordaria, p. 95" 
+       label="Jean-Baptiste Poquelin, dit Molière" 
+       description="Portrait de Molière" 
        license="public domain" 
-       manifest="https://oncs.bib.umontreal.ca/generateur/BLRCS/Chordaria_Atkins_p95.tif.json">
+       url="https://oncs.bib.umontreal.ca/BLRCS/Portrait_de_moliere.tif">
 
 ## Map
 
