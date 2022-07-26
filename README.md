@@ -57,4 +57,4 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [Photographs of British Algae: Cyanotype Impressions 1843–53](https://www.metmuseum.org/art/collection/search/286656)
