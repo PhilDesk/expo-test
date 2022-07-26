@@ -52,7 +52,7 @@ La <span data-mouseover-map-flyto="45.49874,-73.61624,17">Bibliothèque des livr
 <param ve-map center="45.5013,-73.6169" zoom="16">
 <param ve-map-marker
  coords="45.49941,-73.61669"
- size="20, 20"
+ size="20, 25"
  circle="false">
 
 <!--<param ve-map center="Q36600" zoom="11" prefer-geojson>-->
