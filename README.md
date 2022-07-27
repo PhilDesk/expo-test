@@ -78,6 +78,7 @@ Dialogue ou entretient entre un François et un sauvage.
        description="Dialogue d'un François avec un sauvage" 
        license="public domain" 
        url="https://oncs.bib.umontreal.ca/BLRCS/Lahontan/0016.tif">
+       
 ## Université de Montréal
 L'Université de Montréal (UdeM) est une université publique canadienne du Québec. Elle est l'un des sept établissements d'enseignement supérieur ayant leur siège social à Montréal4, ainsi que l'une des cinq grandes universités du Canada et la deuxième en nombre d'étudiants.
 <param ve-map center="45.5007,-73.6105" zoom="15">
