@@ -48,7 +48,16 @@ L'œuvre de <span data-mouseover-image-zoomto="741,600,1268,1077">Molière</span
        
 ## Document multi-pages
 Ceci est un document multi-pages.
-<param ve-image fit="contain" manifest="https://oncs.bib.umontreal.ca/generateur/BLRCS.json">
+<param ve-image fit="contain"
+       label="Jean-Baptiste Poquelin, dit Molière" 
+       description="Portrait de Molière" 
+       license="public domain" 
+       url="https://oncs.bib.umontreal.ca/BLRCS/Portrait_de_moliere.tif">
+<param ve-image fit="contain"
+       label="Journée du poilu" 
+       description="La journée du poilu" 
+       license="public domain" 
+       url="https://oncs.bib.umontreal.ca/BLRCS/Journee_du_poilu.tif">
 
 ## Université de Montréal
 L'Université de Montréal (UdeM) est une université publique canadienne du Québec. Elle est l'un des sept établissements d'enseignement supérieur ayant leur siège social à Montréal4, ainsi que l'une des cinq grandes universités du Canada et la deuxième en nombre d'étudiants.
