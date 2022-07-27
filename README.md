@@ -49,35 +49,35 @@ L'œuvre de <span data-mouseover-image-zoomto="741,600,1268,1077">Molière</span
 ## Document multi-pages
 Ceci est un document multi-pages.
 <param ve-image fit="contain"
-       label="Manuscrit de Lahontan" 
-       description="page 1" 
+       label="Manuscrit de Lahontan, p. 1" 
+       description="Dialogue d'un François avec un sauvage" 
        license="public domain" 
-       url="https://oncs.bib.umontreal.ca/BLRCS/Lahontan/0001.tif">
+       url="https://oncs.bib.umontreal.ca/BLRCS/Lahontan/0007.tif">
 <param ve-image fit="contain"
-       label="Manuscrit de Lahontan" 
-       description="page 2" 
+       label="Manuscrit de Lahontan, p. 2" 
+       description="Dialogue d'un François avec un sauvage" 
        license="public domain" 
-       url="https://oncs.bib.umontreal.ca/BLRCS/Lahontan/0002.tif">
+       url="https://oncs.bib.umontreal.ca/BLRCS/Lahontan/0008.tif">
 <param ve-image fit="contain"
-       label="Manuscrit de Lahontan" 
-       description="page 3" 
+       label="Manuscrit de Lahontan, p. 3" 
+       description="Dialogue d'un François avec un sauvage" 
        license="public domain" 
-       url="https://oncs.bib.umontreal.ca/BLRCS/Lahontan/0003.tif">
+       url="https://oncs.bib.umontreal.ca/BLRCS/Lahontan/0009.tif">
 <param ve-image fit="contain"
-       label="Manuscrit de Lahontan" 
-       description="page 4" 
+       label="Manuscrit de Lahontan, p. 4" 
+       description="Dialogue d'un François avec un sauvage" 
        license="public domain" 
-       url="https://oncs.bib.umontreal.ca/BLRCS/Lahontan/0004.tif">
+       url="https://oncs.bib.umontreal.ca/BLRCS/Lahontan/0010.tif">
 <param ve-image fit="contain"
-       label="Manuscrit de Lahontan" 
-       description="page 5" 
+       label="Manuscrit de Lahontan, p. 5" 
+       description="Dialogue d'un François avec un sauvage" 
        license="public domain" 
-       url="https://oncs.bib.umontreal.ca/BLRCS/Lahontan/0005.tif">
+       url="https://oncs.bib.umontreal.ca/BLRCS/Lahontan/0011.tif">
 <param ve-image fit="contain"
-       label="Manuscrit de Lahontan" 
-       description="page 6" 
+       label="Manuscrit de Lahontan, p. 6" 
+       description="Dialogue d'un François avec un sauvage" 
        license="public domain" 
-       url="https://oncs.bib.umontreal.ca/BLRCS/Lahontan/0006.tif">
+       url="https://oncs.bib.umontreal.ca/BLRCS/Lahontan/0012.tif">
 ## Université de Montréal
 L'Université de Montréal (UdeM) est une université publique canadienne du Québec. Elle est l'un des sept établissements d'enseignement supérieur ayant leur siège social à Montréal4, ainsi que l'une des cinq grandes universités du Canada et la deuxième en nombre d'étudiants.
 <param ve-map center="45.5007,-73.6105" zoom="15">
