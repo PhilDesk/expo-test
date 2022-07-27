@@ -11,9 +11,8 @@ Ceci est une expo test avec Juncture et le carré de sable IIIF
 <param ve-config 
        title="Mon exposition test"
        author="BLRCS"
-       banner="https://oncs.bib.umontreal.ca/BLRCS/Illustration_coloree.tif"
-       layout="vertical">
-       
+       banner="https://oncs.bib.umontreal.ca/BLRCS/image_chinoise.png"
+       layout="vertical">   
       <!-- banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" -->
 
 
