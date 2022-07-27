@@ -47,35 +47,35 @@ L'œuvre de <span data-mouseover-image-zoomto="741,600,1268,1077">Molière</span
        url="https://oncs.bib.umontreal.ca/BLRCS/Portrait_de_moliere.tif">
        
 ## Manuscrit de Lahontan
-Dialogue ou entretient entre un François et un sauvage.
+Dialogue ou entretient d'un François avec un sauvage.
 <param ve-image fit="contain"
        label="Manuscrit de Lahontan, p. 1" 
-       description="Dialogue d'un François avec un sauvage" 
+       description="Dialogue ou entretient d'un François avec un sauvage" 
        license="public domain" 
        url="https://oncs.bib.umontreal.ca/BLRCS/Lahontan/0009.tif">
 <param ve-image fit="contain"
        label="Manuscrit de Lahontan, p. 2" 
-       description="Dialogue d'un François avec un sauvage" 
+       description="Dialogue ou entretient d'un François avec un sauvage" 
        license="public domain" 
        url="https://oncs.bib.umontreal.ca/BLRCS/Lahontan/0012.tif">
 <param ve-image fit="contain"
        label="Manuscrit de Lahontan, p. 3" 
-       description="Dialogue d'un François avec un sauvage" 
+       description="Dialogue ou entretient d'un François avec un sauvage" 
        license="public domain" 
        url="https://oncs.bib.umontreal.ca/BLRCS/Lahontan/0013.tif">
 <param ve-image fit="contain"
        label="Manuscrit de Lahontan, p. 4" 
-       description="Dialogue d'un François avec un sauvage" 
+       description="Dialogue ou entretient d'un François avec un sauvage" 
        license="public domain" 
        url="https://oncs.bib.umontreal.ca/BLRCS/Lahontan/0014.tif">
 <param ve-image fit="contain"
        label="Manuscrit de Lahontan, p. 5" 
-       description="Dialogue d'un François avec un sauvage" 
+       description="Dialogue ou entretient d'un François avec un sauvage" 
        license="public domain" 
        url="https://oncs.bib.umontreal.ca/BLRCS/Lahontan/0015.tif">
 <param ve-image fit="contain"
        label="Manuscrit de Lahontan, p. 6" 
-       description="Dialogue d'un François avec un sauvage" 
+       description="Dialogue ou entretient d'un François avec un sauvage" 
        license="public domain" 
        url="https://oncs.bib.umontreal.ca/BLRCS/Lahontan/0016.tif">
        
