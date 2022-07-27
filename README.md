@@ -49,16 +49,35 @@ L'œuvre de <span data-mouseover-image-zoomto="741,600,1268,1077">Molière</span
 ## Document multi-pages
 Ceci est un document multi-pages.
 <param ve-image fit="contain"
-       label="Jean-Baptiste Poquelin, dit Molière" 
-       description="Portrait de Molière" 
+       label="Manuscrit de Lahontan" 
+       description="page 1" 
        license="public domain" 
-       url="https://oncs.bib.umontreal.ca/BLRCS/Portrait_de_moliere.tif">
+       url="https://oncs.bib.umontreal.ca/BLRCS/Lahontan/0001.tif">
 <param ve-image fit="contain"
-       label="Journée du poilu" 
-       description="La journée du poilu" 
+       label="Manuscrit de Lahontan" 
+       description="page 2" 
        license="public domain" 
-       url="https://oncs.bib.umontreal.ca/BLRCS/Journee_du_poilu.tif">
-
+       url="https://oncs.bib.umontreal.ca/BLRCS/Lahontan/0002.tif">
+<param ve-image fit="contain"
+       label="Manuscrit de Lahontan" 
+       description="page 3" 
+       license="public domain" 
+       url="https://oncs.bib.umontreal.ca/BLRCS/Lahontan/0003.tif">
+<param ve-image fit="contain"
+       label="Manuscrit de Lahontan" 
+       description="page 4" 
+       license="public domain" 
+       url="https://oncs.bib.umontreal.ca/BLRCS/Lahontan/0004.tif">
+<param ve-image fit="contain"
+       label="Manuscrit de Lahontan" 
+       description="page 5" 
+       license="public domain" 
+       url="https://oncs.bib.umontreal.ca/BLRCS/Lahontan/0005.tif">
+<param ve-image fit="contain"
+       label="Manuscrit de Lahontan" 
+       description="page 6" 
+       license="public domain" 
+       url="https://oncs.bib.umontreal.ca/BLRCS/Lahontan/0006.tif">
 ## Université de Montréal
 L'Université de Montréal (UdeM) est une université publique canadienne du Québec. Elle est l'un des sept établissements d'enseignement supérieur ayant leur siège social à Montréal4, ainsi que l'une des cinq grandes universités du Canada et la deuxième en nombre d'étudiants.
 <param ve-map center="45.5007,-73.6105" zoom="15">
