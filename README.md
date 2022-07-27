@@ -2,7 +2,12 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 Ceci est une expo test avec Juncture et le carré de sable IIIF
-
+<param ve-image fit="contain"
+       label="Minos"
+       description="Inferno (Dante Allighieri), Chant 5" 
+       license="public domain"
+       url="https://upload.wikimedia.org/wikipedia/commons/b/b2/Inferno_Canto_5_line_4_Minos.jpg">
+       
 <param ve-config 
        title="Mon exposition test"
        author="BLRCS"
