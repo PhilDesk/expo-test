@@ -46,8 +46,8 @@ L'œuvre de <span data-mouseover-image-zoomto="741,600,1268,1077">Molière</span
        license="public domain" 
        url="https://oncs.bib.umontreal.ca/BLRCS/Portrait_de_moliere.tif">
        
-## Document multi-pages
-Ceci est un document multi-pages.
+## Manuscrit de Lahontan
+Dialogue entre un François et un sauvage.
 <param ve-image fit="contain"
        label="Manuscrit de Lahontan, p. 1" 
        description="Dialogue d'un François avec un sauvage" 
