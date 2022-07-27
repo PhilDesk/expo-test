@@ -47,6 +47,7 @@ L'œuvre de <span data-mouseover-image-zoomto="741,600,1268,1077">Molière</span
        url="https://oncs.bib.umontreal.ca/BLRCS/Portrait_de_moliere.tif">
        
 ## Document multi-pages
+Ceci est un document multi-pages.
 <param ve-image fit="contain" manifest="https://oncs.bib.umontreal.ca/generateur/BLRCS.json">
 
 ## Université de Montréal
