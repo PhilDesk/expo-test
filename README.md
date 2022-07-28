@@ -81,14 +81,13 @@ Dialogue ou entretient d'un François avec un sauvage.
        
 ### Université de Montréal
 L'Université de Montréal (UdeM) est une université publique canadienne du Québec. Elle est l'un des sept établissements d'enseignement supérieur ayant leur siège social à Montréal4, ainsi que l'une des cinq grandes universités du Canada et la deuxième en nombre d'étudiants.
-<param ve-map basemap="mdx_google_map" center="45.5007,-73.6105" zoom="15">
-<!--<param ve-map center="45.5007,-73.6105" zoom="15">-->
+<param ve-map center="45.5007,-73.6105" zoom="15">
 
 ### Bibliothèque des livres rares et collections spéciales
 La <span data-mouseover-map-flyto="45.49874,-73.61624,17">Bibliothèque des livres rares et collections spéciales</span> de l’Université de Montréal possède une collection patrimoniale développée sur plus d’un siècle d’histoire et qui comprend plus de 100 000 documents dans presque tous les domaines du savoir, de l’Antiquité à nos jours.
 <param ve-map center="45.5013,-73.6169" zoom="16">
 <param ve-map-marker
- coords="45.49944,-73.61636"
+ coords="45.49959430013222, -73.61689376745875"
  size="30, 40"
  circle="false">
 
