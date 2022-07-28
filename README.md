@@ -32,7 +32,7 @@ Publiées entre 1843 et 1853 sous forme de douze petits fascicules d'une cinquan
        url="https://oncs.bib.umontreal.ca/BLRCS/Chordaria_Atkins_p95.tif">
 
 ### Molière
-Jean-Baptiste Poquelin, dit Molière, est un comédien et dramaturge français, baptisé le 15 janvier 1622 à Paris, où il est mort après avoir joué sur scène la quatrième représentation de sa pièce [Le Malade imaginaire](https://fr.wikipedia.org/wiki/Le_Malade_imaginaire), le 17 février 1673. 
+Jean-Baptiste Poquelin, dit <span eid="Q207983">Molière</span>, est un comédien et dramaturge français, baptisé le 15 janvier 1622 à Paris, où il est mort après avoir joué sur scène la quatrième représentation de sa pièce [Le Malade imaginaire](https://fr.wikipedia.org/wiki/Le_Malade_imaginaire), le 17 février 1673. 
 <param ve-image fit="contain"
        label="Jean-Baptiste Poquelin, dit Molière" 
        description="Portrait de Molière" 
