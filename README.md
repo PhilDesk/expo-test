@@ -33,12 +33,11 @@ Publiées entre 1843 et 1853 sous forme de douze petits fascicules d'une cinquan
 
 ### Molière
 Jean-Baptiste Poquelin, dit Molière, est un comédien et dramaturge français, baptisé le 15 janvier 1622 à Paris, où il est mort après avoir joué sur scène la quatrième représentation de sa pièce [Le Malade imaginaire](https://fr.wikipedia.org/wiki/Le_Malade_imaginaire), le 17 février 1673. 
-<param ve-image fit="contain" manifest="https://oncs.bib.umontreal.ca/generateur/BLRCS/Portrait_de_moliere.tif.json">
-<!--<param ve-image fit="contain"
+<param ve-image fit="contain"
        label="Jean-Baptiste Poquelin, dit Molière" 
        description="Portrait de Molière" 
        license="public domain" 
-       url="https://oncs.bib.umontreal.ca/BLRCS/Portrait_de_moliere.tif">-->
+       url="https://oncs.bib.umontreal.ca/BLRCS/Portrait_de_moliere.tif">
        
 L'œuvre de <span data-mouseover-image-zoomto="741,600,1268,1077">Molière</span>, une trentaine de comédies en vers ou en prose, accompagnées ou non d'entrées de ballet et de musique, constitue un des piliers de l'enseignement littéraire en France. Elle continue de remporter un vif succès en France et dans le monde entier, et reste l'une des références de la littérature universelle.
 <param ve-image region="164,448,2629,2232"
