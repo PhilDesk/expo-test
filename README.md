@@ -100,6 +100,7 @@ Ceci est un trajet entre 3 lieux remarquables de Montréal.
 ### Fondation de 3 villes au Québec
 Le peuplement français du fleuve Saint-Laurent débute au XVIIe siècle avec la fondation de Québec en 1608, Trois-Rivières en 1634 et Montréal en 1642. Connue comme la Nouvelle-France à partir de 1668, la colonie s’appuie sur la traite des fourrures.
 <param ve-map
+        show-labels="true"
 	title="Fondation de 3 villes au Québec"
 	center="46.187, -72.504"
 	zoom="8"
