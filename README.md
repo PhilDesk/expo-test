@@ -109,8 +109,7 @@ Le peuplement français du fleuve Saint-Laurent débute au XVIIe siècle avec la
 	duration="P10000Y"
 	max-zoom="10"
 	date-format="YYYY"
-	fps="0.5"
-	auto-play="false">
+	fps="0.5">
 <param ve-map-layer geojson url="fondation.json">
 
 <!--## Multiple viewers
