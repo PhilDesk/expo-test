@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "BLRCS",
+        "name_long": "Bibliothèque des livres rares et collections spéciales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61663818359374,
+          45.49935371039254
+        ]
+      }
+    }
+  ]
+}
