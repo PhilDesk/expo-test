@@ -97,6 +97,22 @@ Ceci est un trajet entre 3 lieux remarquables de Montréal.
 <param ve-map  title="Centre-ville de Montréal" center="45.4989,-73.5612" zoom="16" show-labels="true">
 <param ve-map-layer geojson active title="Trajet entre 3 lieux remarquables de Montréal" url="trajet.json">
 
+### Fondation de 3 villes au Québec
+Le peuplement français du fleuve Saint-Laurent débute au XVIIe siècle avec la fondation de Québec en 1608, Trois-Rivières en 1634 et Montréal en 1642. Connue comme la Nouvelle-France à partir de 1668, la colonie s’appuie sur la traite des fourrures.
+<param ve-map
+	title="Fondation de 3 villes au Québec"
+	center="46.187, -72.504"
+	zoom="8"
+	time-dimension
+	time-interval="1600/1700"
+	duration="P10000Y"
+	max-zoom="10"
+	date-format="YYYY"
+	fps="3"
+	fill="#5C6609"
+	auto-play="true">
+<param ve-map-layer geojson url="fondation.json">
+
 <!--## Multiple viewers
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
