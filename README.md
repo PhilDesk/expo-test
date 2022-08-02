@@ -97,7 +97,7 @@ La <span data-mouseover-map-flyto="45.49874,-73.61624,17">Bibliothèque des livr
 
 ### Trajet
 Ceci est un trajet entre 3 lieux remarquables de Montréal.
-<param ve-map title="Centre-ville de Montréal" center="45.4989/-73.5612" zoom="16">
+<param ve-map title="Centre-ville de Montréal" center="45.4989,-73.5612" zoom="16">
 <param ve-map-layer geojson active title="Trajet entre 3 lieux remarquables de Montréal" url="trajet.json">
 
 <!--## Multiple viewers
