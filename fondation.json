@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "time": "1608",
+        "label": "Québec : 1608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.20788574218749,
+          46.822616668804926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "time": "1634",
+        "label": "Trois-Rivières : 1634"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5592041015625,
+          46.33934333161124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "time": "1642",
+        "label": "Montréal : 1642"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.564453125,
+          45.51404592560424
+        ]
+      }
+    }
+  ]
+}
