@@ -47,8 +47,13 @@ L'œuvre de <span data-mouseover-image-zoomto="741,600,1268,1077">Molière</span
        url="https://oncs.bib.umontreal.ca/BLRCS/Portrait_de_moliere.tif">
        
 Comparaison d'un portrait de Molière monochrome avec un portrait en couleur : Molière (1622-1673) dans le rôle de César de "La Mort de Pompée" par Nicolas Mignard (1606-1668).
+<param ve-image region="164,448,2629,2232"
+       label="Jean-Baptiste Poquelin, dit Molière" 
+       description="Portrait de Molière" 
+       license="public domain" 
+       url="https://oncs.bib.umontreal.ca/BLRCS/Portrait_de_moliere.tif">
 <param ve-compare curtain url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Moli%C3%A8re_-_Nicolas_Mignard_%281658%29.jpg" label="Molière" description="Molière (1622-1673) dans le rôle de César de 'La Mort de Pompée'" attribution="Nicolas Mignard (1606-1668)" license="In Copyright">
-<param ve-compare region="164,448,2629,2232" url="https://oncs.bib.umontreal.ca/BLRCS/Portrait_de_moliere.tif" description="Molière (1622-1673) dans le rôle de César de 'La Mort de Pompée'" attribution="Nicolas Mignard (1606-1668)" license="In Copyright">
+<param ve-compare url="https://oncs.bib.umontreal.ca/BLRCS/Portrait_de_moliere.tif" description="Molière (1622-1673) dans le rôle de César de 'La Mort de Pompée'" attribution="Nicolas Mignard (1606-1668)" license="In Copyright">
        
 ### Manuscrit de Lahontan
 Dialogue ou entretient d'un François avec un sauvage.
