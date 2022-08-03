@@ -83,7 +83,7 @@ Dialogue ou entretient d'un François avec un sauvage.
        license="public domain" 
        url="https://oncs.bib.umontreal.ca/BLRCS/Lahontan/0016.tif">
        
-### Université de Montréal
+### Université de Montréal (par défaut Juncture utilise OpenStreetMap)
 L'Université de Montréal (UdeM) est une université publique canadienne du Québec. Elle est l'un des sept établissements d'enseignement supérieur ayant leur siège social à Montréal4, ainsi que l'une des cinq grandes universités du Canada et la deuxième en nombre d'étudiants.
 <param ve-map title="Université de Montréal" center="45.5007,-73.6105" zoom="15">
 
@@ -92,12 +92,12 @@ La <span data-mouseover-map-flyto="45.49874,-73.61624,17">Bibliothèque des livr
 <param ve-map title="Bibliothèque des livres rares et collections spéciales" center="45.5013,-73.6169" zoom="16" show-labels="true">
 <param ve-map-layer geojson active title="La BLRCS" url="blrcs.json">
 
-### Trajet
+### Trajet (utilisation d'une carte OpenStreetMap avec une couche de données d'un fichier json généré grâce à GeoJSON)
 Ceci est un trajet entre 3 lieux remarquables de Montréal.
 <param ve-map  title="Centre-ville de Montréal" center="45.4989,-73.5612" zoom="16" show-labels="true">
 <param ve-map-layer geojson active title="Trajet entre 3 lieux remarquables de Montréal" url="trajet.json">
 
-### Fondation de 3 villes au Québec
+### Fondation de 3 villes au Québec (données générées grâce à GeoJSON)
 Le peuplement français du fleuve Saint-Laurent débute au XVIIe siècle avec la fondation de Québec en 1608, Trois-Rivières en 1634 et Montréal en 1642. Connue comme la Nouvelle-France à partir de 1668, la colonie s’appuie sur la traite des fourrures.
 <param ve-map
         show-labels="true"
@@ -113,7 +113,7 @@ Le peuplement français du fleuve Saint-Laurent débute au XVIIe siècle avec la
 	fps="0.5">
 <param ve-map-layer geojson url="fondation.json">
 
-### Voici un timeline (les données sont dans une feuille de tableur d'un compte perso Google Drive mais partagées sur le web)
+### Timeline (les données sont dans une feuille de tableur d'un compte personnel Google Drive mais la feuille est partagée sur le web)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-knightlab-timeline source=1hmIKkGsqbTOYBbgkAkyzi8rD2c_FSD2LmYDuw6JMdzE timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="750">
 
@@ -125,6 +125,6 @@ Others are selectable using icons displayed in the top right margin of the parag
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 <param ve-map center="Q36600" zoom="11">-->
 
-## References
+## Références
 
 [^1]: [Photographs of British Algae: Cyanotype Impressions 1843–53](https://www.metmuseum.org/art/collection/search/286656)
