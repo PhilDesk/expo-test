@@ -22,14 +22,21 @@ Ceci est une expo test avec Juncture et le carré de sable IIIF
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-### Anna Atkins
+### Anna Atkins (code avec URL vers l'image)
 Publiées entre 1843 et 1853 sous forme de douze petits fascicules d'une cinquantaine de pages chacun, les Photographs of British Algae sont l'une des productions clés de l'histoire de la photographie, mariant pour la première fois photographie et édition à une époque où les livres illustrés l'étaient à la main par des dessinateurs et des graveurs. Les cyanotypes ― procédé de photographie monochrome mis au point en 1842 par John Herschel ― d'Anna Atkins forment un herbier conçu comme accompagnement du Manual of the British Marine Algae de William Harvey, qui proposait en 1841 une classification des algues à la précision et à l'ampleur inédites.[^1]
-
 <param ve-image fit="contain"
        label="Chordaria d'Anna Atkins"
        description="Chordaria, p. 95" 
        license="public domain"
        url="https://oncs.bib.umontreal.ca/BLRCS/Chordaria_Atkins_p95.tif">
+       
+```html
+<param ve-image fit="contain"
+       label="Chordaria d'Anna Atkins"
+       description="Chordaria, p. 95" 
+       license="public domain"
+       url="https://oncs.bib.umontreal.ca/BLRCS/Chordaria_Atkins_p95.tif">
+```
 
 ### Molière
 Jean-Baptiste Poquelin, dit <span eid="Q687">Molière</span>, est un comédien et dramaturge français, baptisé le 15 janvier 1622 à Paris, où il est mort après avoir joué sur scène la quatrième représentation de sa pièce [Le Malade imaginaire](https://fr.wikipedia.org/wiki/Le_Malade_imaginaire), le 17 février 1673. 
