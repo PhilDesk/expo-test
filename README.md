@@ -27,7 +27,7 @@ Publiées entre 1843 et 1853 sous forme de douze petits fascicules d'une cinquan
 <param ve-image fit="contain" manifest="https://damsssl.llgc.org.uk/iiif/2.0/1130163/manifest.json">
        
 ```html
-<param ve-image fit="contain" manifest="https://oncs.bib.umontreal.ca/generateur/BLRCS/Chordaria_Atkins_p95.tif.json">
+<param ve-image fit="contain" manifest="https://damsssl.llgc.org.uk/iiif/2.0/1130163/manifest.json">
 ```
 
 ### Anna Atkins (code avec URL vers l'image)
