@@ -31,9 +31,9 @@ Publiées entre 1843 et 1853 sous forme de douze petits fascicules d'une cinquan
 ```
 ### Gallica (code avec URL vers le manifeste)
 Gallica est la bibliothèque numérique de la Bibliothèque nationale de France et de ses partenaires. En libre accès depuis 1997, elle regroupe plusieurs millions de documents. Gallica franchit le cap du millionième document en 2010, des six millions en 2020 et des huit millions de documents en mars 2021.
-<param ve-image fit="contain" manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b550076223/manifest.json" seq="6">
-<param ve-image fit="contain" manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b550076223/manifest.json" seq="7">
-<param ve-image fit="contain" manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b550076223/manifest.json" seq="8">
+<param ve-image fit="contain" manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b550076223/manifest.json" seq="6;7;8;9">
+<!--<param ve-image fit="contain" manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b550076223/manifest.json" seq="7">
+<param ve-image fit="contain" manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b550076223/manifest.json" seq="8">-->
 
 ```html
 <param ve-image fit="contain" manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b550076223/manifest.json">
