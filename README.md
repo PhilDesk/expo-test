@@ -29,7 +29,7 @@ Vue sur Beaumaris et Bangor sur le détroit de Menai depuis le rivage d'Anglesey
 ```html
 <param ve-image fit="contain" manifest="https://damsssl.llgc.org.uk/iiif/2.0/1130163/manifest.json">
 ```
-### Gallica (code avec URL vers le manifeste)
+### Gallica (code avec URL vers le manifeste et affichage de plusieurs pages)
 Gallica est la bibliothèque numérique de la Bibliothèque nationale de France et de ses partenaires. En libre accès depuis 1997, elle regroupe plusieurs millions de documents. Gallica franchit le cap du millionième document en 2010, des six millions en 2020 et des huit millions de documents en mars 2021.
 <param ve-image fit="contain" manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b550076223/manifest.json" seq="6">
 <param ve-image fit="contain" manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b550076223/manifest.json" seq="7">
@@ -75,7 +75,7 @@ Comparaison d'un portrait de Molière monochrome avec un portrait en couleur : M
 <param ve-compare curtain url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Moli%C3%A8re_-_Nicolas_Mignard_%281658%29.jpg" label="Molière" description="Molière (1622-1673) dans le rôle de César de 'La Mort de Pompée'" attribution="Nicolas Mignard (1606-1668)" license="In Copyright">
 <param ve-compare url="https://oncs.bib.umontreal.ca/BLRCS/Portrait_de_moliere_zoom.tif" description="Molière (1622-1673) dans le rôle de César de 'La Mort de Pompée'" attribution="Nicolas Mignard (1606-1668)" license="In Copyright">
        
-### Manuscrit de Lahontan
+### Manuscrit de Lahontan (affichage de plusieurs pages)
 Dialogue ou entretient d'un François avec un sauvage.
 <param ve-image fit="contain"
        label="Manuscrit de Lahontan, p. 1" 
