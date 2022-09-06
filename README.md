@@ -29,6 +29,9 @@ Publiées entre 1843 et 1853 sous forme de douze petits fascicules d'une cinquan
 ```html
 <param ve-image fit="contain" manifest="https://damsssl.llgc.org.uk/iiif/2.0/1130163/manifest.json">
 ```
+### Gallica (code avec URL vers le manifeste)
+Gallica est la bibliothèque numérique de la Bibliothèque nationale de France et de ses partenaires. En libre accès depuis 1997, elle regroupe plusieurs millions de documents. Gallica franchit le cap du millionième document en 2010, des six millions en 2020 et des huit millions de documents en mars 2021.
+<param ve-image fit="contain" manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b550076223/manifest.json">
 
 ### Anna Atkins (code avec URL vers l'image)
 Publiées entre 1843 et 1853 sous forme de douze petits fascicules d'une cinquantaine de pages chacun, les Photographs of British Algae sont l'une des productions clés de l'histoire de la photographie, mariant pour la première fois photographie et édition à une époque où les livres illustrés l'étaient à la main par des dessinateurs et des graveurs. Les cyanotypes ― procédé de photographie monochrome mis au point en 1842 par John Herschel ― d'Anna Atkins forment un herbier conçu comme accompagnement du Manual of the British Marine Algae de William Harvey, qui proposait en 1841 une classification des algues à la précision et à l'ampleur inédites.[^1]
