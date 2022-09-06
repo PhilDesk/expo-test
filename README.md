@@ -24,7 +24,7 @@ Ceci est une expo test avec Juncture et le carré de sable IIIF
 
 ### Anna Atkins (code avec URL vers le manifeste)
 Publiées entre 1843 et 1853 sous forme de douze petits fascicules d'une cinquantaine de pages chacun, les Photographs of British Algae sont l'une des productions clés de l'histoire de la photographie, mariant pour la première fois photographie et édition à une époque où les livres illustrés l'étaient à la main par des dessinateurs et des graveurs. Les cyanotypes ― procédé de photographie monochrome mis au point en 1842 par John Herschel ― d'Anna Atkins forment un herbier conçu comme accompagnement du Manual of the British Marine Algae de William Harvey, qui proposait en 1841 une classification des algues à la précision et à l'ampleur inédites.[^1]
-<param ve-image fit="contain" url="https://oncs.bib.umontreal.ca/cantaloupe/iiif/3/BLRCS%2FChordaria_Atkins_p95.tif/info.json">
+<param ve-image fit="contain" manifest="https://oncs.bib.umontreal.ca/cantaloupe/iiif/3/BLRCS%2FChordaria_Atkins_p95.tif/info.json">
        
 ```html
 <param ve-image fit="contain" manifest="https://oncs.bib.umontreal.ca/generateur/BLRCS/Chordaria_Atkins_p95.tif.json">
